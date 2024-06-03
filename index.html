@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Assinatura de E-mail</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="logo-container">
+        <img src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/56c81699c37407e068922fcf2a38599f/showFile/?&token=08154s1ykg5z">
+    </div>
+    <div class="container">
+        <h1>Gerador de Assinatura de E-mail</h1>
+        <div class="form-group">
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome">
+        </div>
+        <div class="form-group">
+            <label for="sobrenome">Sobrenome:</label>
+            <input type="text" id="sobrenome">
+        </div>
+        <div class="form-group">
+            <label for="cargo">Cargo:</label>
+            <input type="text" id="cargo">
+        </div>
+
+        <div class="form-group">
+            <label for="email">E-mail:</label>
+            <input type="email" id="email">
+        </div>
+        <button onclick="gerarAssinatura()">Gerar Assinatura</button>
+        <button id="copiar-assinatura" onclick="copiarAssinatura()">Copiar Assinatura</button>
+        <div class="signature-preview" id="signature-preview"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

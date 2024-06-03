@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #300000;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px; 
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+button {
+    padding: 10px 15px;
+    margin-right: 10px;
+    background-color: #942F2F; 
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px; 
+}
+
+button:hover {
+    background-color: #4e4e4e; 
+}
+.logo-container {
+    display: flex;
+    justify-content: center; /* Alinha a logo horizontalmente no centro */
+    align-items: flex-start; /* Alinha a logo verticalmente no topo */
+    margin-top: 20px; /* Espaçamento do topo */
+}
+
+.logo-container img {
+    max-width: 100%; /* Garante que a logo não ultrapasse a largura da tela */
+    height: auto; /* Mantém a proporção da imagem */
+    max-height: 200px; /* Define a altura máxima da logo */
+}
