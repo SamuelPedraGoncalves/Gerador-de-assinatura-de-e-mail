@@ -12,7 +12,7 @@ function gerarAssinatura() {
             <td width="150" style="vertical-align: middle;"><span
                     class="template3__ImageContainer-sc-vj949k-0 jeScQV"
                     style="margin-right: 20px; display: block;"><img
-                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/5347a113f392cfd215eb301623c89b3d/showFile/?&token=5ruyat913s32"
+                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/f442796d999758c2382cf8f1479fee8b/showFile/?&token=q4wfdmgxe08n"
                         role="presentation" width="130" class="image__StyledImage-sc-hupvqm-0 gYgOut"
                         style="max-width: 130px;"></span></td>
             <td style="vertical-align: middle;">
