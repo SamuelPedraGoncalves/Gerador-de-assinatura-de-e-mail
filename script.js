@@ -12,7 +12,7 @@ function gerarAssinatura() {
             <td width="150" style="vertical-align: middle;"><span
                     class="template3__ImageContainer-sc-vj949k-0 jeScQV"
                     style="margin-right: 20px; display: block;"><img
-                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/f442796d999758c2382cf8f1479fee8b/showFile/?&token=dsqqx3n8g0mp"
+                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/79b1d8ff95440f2e31bea4d7bd2c314f/showFile/?&token=b7xjvljxr299"
                         role="presentation" width="130" class="image__StyledImage-sc-hupvqm-0 gYgOut"
                         style="max-width: 130px;"></span></td>
             <td style="vertical-align: middle;">
@@ -55,7 +55,7 @@ function gerarAssinatura() {
                                                     width="11"
                                                     class="contact-info__IconWrapper-sc-mmkjr6-1 bglVXe"
                                                     style="display: inline-block;"><img
-                                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/79b1d8ff95440f2e31bea4d7bd2c314f/showFile/?&token=b7xjvljxr299"
+                                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/704a5d13b6cf365b6ad0435254375a98/showFile/?&token=wy3xdknaelh6"
                                                         color="#3f68c3" alt="mobilePhone" width="15"
                                                         class="contact-info__ContactLabelIcon-sc-mmkjr6-0 cnkwri"
                                                         style="display: block; background-color: #fff;"></span>
