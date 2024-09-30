@@ -55,7 +55,7 @@ function gerarAssinatura() {
                                                     width="11"
                                                     class="contact-info__IconWrapper-sc-mmkjr6-1 bglVXe"
                                                     style="display: inline-block;"><img
-                                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/704a5d13b6cf365b6ad0435254375a98/showFile/?&token=wy3xdknaelh6"
+                                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/79b1d8ff95440f2e31bea4d7bd2c314f/showFile/?&token=b7xjvljxr299"
                                                         color="#3f68c3" alt="mobilePhone" width="15"
                                                         class="contact-info__ContactLabelIcon-sc-mmkjr6-0 cnkwri"
                                                         style="display: block; background-color: #fff;"></span>
