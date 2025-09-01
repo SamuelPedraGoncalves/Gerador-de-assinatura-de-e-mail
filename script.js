@@ -12,7 +12,7 @@ function gerarAssinatura() {
             <td width="150" style="vertical-align: middle;"><span
                     class="template3__ImageContainer-sc-vj949k-0 jeScQV"
                     style="margin-right: 20px; display: block;"><img
-                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/85a97e4c20cc04262807aacb9f8de165/showFile/?&token=v7us9j3ffws3"
+                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/f442796d999758c2382cf8f1479fee8b/showFile/?&token=5s3hearyxt15"
                         role="presentation" width="130" class="image__StyledImage-sc-hupvqm-0 gYgOut"
                         style="max-width: 130px;"></span></td>
             <td style="vertical-align: middle;">
@@ -280,4 +280,5 @@ function copiarAssinatura() {
     document.body.removeChild(textArea);
     alert('Código da assinatura copiado para a área de transferência!');
 }
+
 
