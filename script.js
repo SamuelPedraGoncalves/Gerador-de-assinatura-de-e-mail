@@ -55,7 +55,7 @@ function gerarAssinatura() {
                                                     width="11"
                                                     class="contact-info__IconWrapper-sc-mmkjr6-1 bglVXe"
                                                     style="display: inline-block;"><img
-                                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/704a5d13b6cf365b6ad0435254375a98/showFile/?&token=wy3xdknaelh6"
+                                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/704a5d13b6cf365b6ad0435254375a98/showFile?token=5lcjo4m0cngg"
                                                         color="#3f68c3" alt="mobilePhone" width="15"
                                                         class="contact-info__ContactLabelIcon-sc-mmkjr6-0 cnkwri"
                                                         style="display: block; background-color: #fff;"></span>
@@ -81,7 +81,7 @@ function gerarAssinatura() {
                                                     width="11"
                                                     class="contact-info__IconWrapper-sc-mmkjr6-1 bglVXe"
                                                     style="display: inline-block;"><img
-                                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/cec3e688fb9a44bf96efd0d008e940cf/showFile/?&token=c6qpq6lsngvl"
+                                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/cec3e688fb9a44bf96efd0d008e940cf/showFile?token=w1fjekcd7hoe"
                                                         color="#3f68c3" alt="address" width="14"
                                                         class="contact-info__ContactLabelIcon-sc-mmkjr6-0 cnkwri"
                                                         style="display: block;"></span>
@@ -107,7 +107,7 @@ function gerarAssinatura() {
                                                     width="11"
                                                     class="contact-info__IconWrapper-sc-mmkjr6-1 bglVXe"
                                                     style="display: inline-block;"><img
-                                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/b325f7ae84873422e61a1941d96397e4/showFile/?&token=svw4cap4qwb4"
+                                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/b325f7ae84873422e61a1941d96397e4/showFile?token=n4cm7q3pvsqf"
                                                         color="#3f68c3" alt="emailAddress" width="13"
                                                         class="contact-info__ContactLabelIcon-sc-mmkjr6-0 cnkwri"
                                                         style="display: block; background-color: #fff;"></span>
@@ -133,7 +133,7 @@ function gerarAssinatura() {
                                                     width="11"
                                                     class="contact-info__IconWrapper-sc-mmkjr6-1 bglVXe"
                                                     style="display: inline-block;"><img
-                                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/97e7f95b6c3d66757140f1fe7ffed81f/showFile/?&token=ps89usr3taym"
+                                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/97e7f95b6c3d66757140f1fe7ffed81f/showFile?token=jaxe3c9t3s1u"
                                                         color="#3f68c3" alt="website" width="15"
                                                         class="contact-info__ContactLabelIcon-sc-mmkjr6-0 cnkwri"
                                                         style="display: block; background-color: #fff;"></span>
@@ -158,7 +158,7 @@ function gerarAssinatura() {
                                                     width="11"
                                                     class="contact-info__IconWrapper-sc-mmkjr6-1 bglVXe"
                                                     style="display: inline-block;"><img
-                                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/bb5c2e13dd89862a1164ab9a362b58b9/showFile/?&token=skn8pt5ya29q"
+                                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/bb5c2e13dd89862a1164ab9a362b58b9/showFile?token=nyr2i4ocelcm"
                                                         color="#3f68c3" alt="address" width="15"
                                                         class="contact-info__ContactLabelIcon-sc-mmkjr6-0 cnkwri"
                                                         style="display: block; background-color: #fff;"></span>
