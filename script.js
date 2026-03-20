@@ -219,7 +219,7 @@ function gerarAssinatura() {
                             <td><a href="https://web.facebook.com/projacseg/?_rdc=1&amp;_rdr"
                                     color="#2880db" class="social-links__LinkAnchor-sc-py8uhj-2 hBVWAh"
                                     style="display: inline-block; padding: 0px;"><img
-                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/35f4c3e7a2196ce7ee65c4da15f19821/showFile/?&token=ahm3e51uxvzz"
+                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/35f4c3e7a2196ce7ee65c4da15f19821/showFile?token=dpb2saw0fcbu"
                                         alt="facebook" color="#2880db" height="30"
                                         class="social-links__LinkImage-sc-py8uhj-1 hSTSwA"
                                         style="background-color: #fff; max-width: 145px; display: block;"></a>
@@ -230,7 +230,7 @@ function gerarAssinatura() {
                             <td><a href="https://br.linkedin.com/company/projacseg-administradora-e-corretora-de-seguros"
                                     color="#2880db" class="social-links__LinkAnchor-sc-py8uhj-2 hBVWAh"
                                     style="display: inline-block; padding: 0px;"><img
-                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/198221effc7707831d263af1e74ebe36/showFile/?&token=o4mzvzfhzb7f"
+                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/198221effc7707831d263af1e74ebe36/showFile?token=7nw96pmt9w1w"
                                         alt="linkedin" color="#2880db" height="27"
                                         class="social-links__LinkImage-sc-py8uhj-1 hSTSwA"
                                         style="background-color: #fff; max-width: 145px; display: block;"></a>
@@ -241,7 +241,7 @@ function gerarAssinatura() {
                             <td><a href="https://www.instagram.com/projacseg/" color="#2880db"
                                     class="social-links__LinkAnchor-sc-py8uhj-2 hBVWAh"
                                     style="display: inline-block; padding: 0px;"><img
-                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/24187a3e8919b0cc75161ecb6a73e984/showFile/?&token=xcsvzon1twvm"
+                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/24187a3e8919b0cc75161ecb6a73e984/showFile?token=2s47tta3khlc"
                                         alt="instagram" color="#2880db" height="29"
                                         class="social-links__LinkImage-sc-py8uhj-1 hSTSwA"
                                         style="background-color: #fff; max-width: 145px; display: block"></a>
@@ -250,7 +250,7 @@ function gerarAssinatura() {
                             <td><a href="https://api.whatsapp.com/send?phone=5521960150452"
                                     color="#2880db" class="social-links__LinkAnchor-sc-py8uhj-2 hBVWAh"
                                     style="display: inline-block; padding: 0px;"><img
-                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/cec3e688fb9a44bf96efd0d008e940cf/showFile/?&token=503xfuvpnkik"
+                                        src="https://bitrix24public.com/projacseg.bitrix24.com.br/docs/pub/cec3e688fb9a44bf96efd0d008e940cf/showFile?token=4knc1kartbqk"
                                         alt="whatsapp" height="31"
                                         class="social-links__LinkImage-sc-py8uhj-1 hSTSwA">
                             </td>
